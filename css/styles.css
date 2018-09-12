@@ -1,0 +1,21 @@
+.bgimage{
+  background: url('../images/reptiles.jpg') center center no-repeat;
+  background-size: cover;
+  height: 200px;
+}
+.services section {
+   text-align: center;
+}
+.icon{
+  max-width: 150px;
+  margin: 20px auto;
+  display: block;
+}
+@media(min-width: 1200px) {
+  h3 {
+    margin-top: 0;
+  }
+  .services section {
+    text-align: center;
+  }
+}
